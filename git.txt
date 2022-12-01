@@ -1,0 +1,56 @@
+starting from fresh
+- Create an local project you want to store or work on 
+- move to the created directory via using cd
+- intialize the git repository ex- git init git_demo(name of the repo)
+- check weather the repository is being created or not using ls
+
+
+having already documents in the folder
+1)git config -- global user.name "vamsi ganapa"
+2)git config -- global user.email "vamsiganapa@gmail.com"
+3)git config --global init.default branch main  @ default branch defined
+4)git init @ for intializing the repository
+5)git status @ to track the files that are untracked
+6)git add .
+7)git commit -m "first commit of my group project"
+8)git status @ to check weather all are commited or not
+when you chage something after is beeing commited check it with the help of ---- git status
+
+
+
+git diff ---- for looking the diff between previous and normal 
+git add file name @  used for adding the file into to the git 
+
+git restore --staged file name --- used for adding into the staging
+
+git commit -a -m "changed @ description"
+
+git rm "file name"  --- used for removing the file
+
+git restore  "file name"  --- for restoring the deleted file
+
+git mv "old name" "new name"  ---- for changing the name
+
+git commit -m "changed name"
+
+git log --oneline  ------ for checking the logging @ who did it
+
+
+git branch name of the branch  ----- for defining the name of the branch
+
+git branch  -- checking the name of the branch 
+
+git switch name of the branch   --- for changing the name of the branch 
+
+
+
+
+09)git remote add origin https://github.com/vamsiganapa1142/Group-Project.git
+
+10)git remote remove origin ----- when you have an error saying remote already exssits
+
+11)git branch -M main  --- for adding it to github branch
+
+12)git push origin main --force ---- for pushing it into github 
+
+

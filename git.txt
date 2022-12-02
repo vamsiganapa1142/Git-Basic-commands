@@ -54,3 +54,10 @@ git switch name of the branch   --- for changing the name of the branch
 12)git push origin main --force ---- for pushing it into github 
 
 
+
+
+for pulling the code from the repo
+
+git pull https://github.com/vamsiganapa1142/Group-Project.git
+
+

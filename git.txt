@@ -12,7 +12,8 @@ having already documents in the folder
 4)git init @ for intializing the repository
 5)git status @ to track the files that are untracked
 6)git add .
-7)git commit -m "first commit of my group project"
+7)edited
+
 8)git status @ to check weather all are commited or not
 when you chage something after is beeing commited check it with the help of ---- git status
 

@@ -12,7 +12,8 @@ having already documents in the folder
 4)git init @ for intializing the repository
 5)git status @ to track the files that are untracked
 6)git add .
-7)git commit -m "first commit of my group project"
+7)edited
+
 8)git status @ to check weather all are commited or not
 when you chage something after is beeing commited check it with the help of ---- git status
 
@@ -52,5 +53,12 @@ git switch name of the branch   --- for changing the name of the branch
 11)git branch -M main  --- for adding it to github branch
 
 12)git push origin main --force ---- for pushing it into github 
+
+
+
+
+for pulling the code from the repo
+
+git pull https://github.com/vamsiganapa1142/Group-Project.git
 
 
